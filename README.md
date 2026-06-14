@@ -142,3 +142,4 @@ The development of this monorepo URL shortener application was executed via a st
 
 ### Hackathon Credit
 This project is a part of a hackathon run by https://katomaran.com.
+youtube link : https://youtu.be/1KGWZmYrBtI?si=iBhbkMe9taUiAua1
